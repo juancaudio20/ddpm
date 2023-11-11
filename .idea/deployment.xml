@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" autoUpload="Always" serverName="hack (12)" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
       <paths name="Ampere">
         <serverdata>
@@ -177,6 +177,13 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="hack (12)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/nas/home/jalbarracin/ddpm" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="hack (2)">
         <serverdata>
           <mappings>
@@ -234,5 +241,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
   </component>
 </project>
